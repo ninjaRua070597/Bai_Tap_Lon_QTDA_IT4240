@@ -1,4 +1,4 @@
-
+﻿avc
 Apache HBase - Assembly
 Copyright 2007-2019 The Apache Software Foundation
 
@@ -12,7 +12,7 @@ other than ASL v2. See LICENSE for full details
 a
 
 --
-This product includes portions of the Bootstrap project v3.0.0
+This product includes portions of the Bootstraap project v3.0.0
 
 Copyright 2013 Twitter, Inc.
 
