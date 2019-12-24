@@ -1,1 +1,2 @@
-[Laravel] (https://laravel.com/)
+PHP 7
+Laravel framework
